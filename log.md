@@ -8,7 +8,7 @@
 
 ### Day 2: May 5, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Finished display modes & float sections of CSS Layout on Treehouse. Learned how to use inline-block and floats to create layouts. Also learned how to use a clearfix to solve issues with floats.
 
-**Thoughts:** 
+**Thoughts:** Floats always confused me but now I understand how floated elements are removed from the normal document flow, so their containers collapse because the containers technically don't have any content in them when their content is floated. The "clear" property is still a little confusing to me, so I'm going to research that.
 
