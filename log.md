@@ -6,5 +6,9 @@
 
 **Thoughts:** So excited to be done with JS Basics! I kinda want to keep on doing more JS stuff, but it's nice to get back into CSS for a while because I'm more comfortable with it. My goal is to finish CSS Layouts, Responsive Layouts, and Flexbox Layouts tomorrow.
 
+### Day 2: May 5, 2019
 
+**Today's Progress**: 
+
+**Thoughts:** 
 
