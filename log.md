@@ -6,9 +6,14 @@
 
 **Thoughts:** So excited to be done with JS Basics! I kinda want to keep on doing more JS stuff, but it's nice to get back into CSS for a while because I'm more comfortable with it. My goal is to finish CSS Layouts, Responsive Layouts, and Flexbox Layouts tomorrow.
 
-### Day 2: May 5, 2019
+### Day 1: May 5, 2019
 
 **Today's Progress**: Finished display modes & float sections of CSS Layout on Treehouse. Learned how to use inline-block and floats to create layouts. Also learned how to use a clearfix to solve issues with floats.
 
 **Thoughts:** Floats always confused me but now I understand how floated elements are removed from the normal document flow, so their containers collapse because the containers technically don't have any content in them when their content is floated. The "clear" property is still a little confusing to me, so I'm going to research that.
 
+### Day 2: May 6, 2019
+
+**Today's Progress**: Finished CSS Layout Basics and Responsive Design. 
+
+**Thoughts:** I think it's time to make some kind of really basic webpage completely from scratch so I can make sure I've mastered the different layout techniques before doing the standalone Flexbox course. I've used Flexbox before, but I haven't had a solid foundation on CSS layouts so it'll be good to get everything the 'right' way.
