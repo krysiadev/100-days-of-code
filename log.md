@@ -17,3 +17,9 @@
 **Today's Progress**: Finished CSS Layout Basics and Responsive Design. 
 
 **Thoughts:** I think it's time to make some kind of really basic webpage completely from scratch so I can make sure I've mastered the different layout techniques before doing the standalone Flexbox course. I've used Flexbox before, but I haven't had a solid foundation on CSS layouts so it'll be good to get everything the 'right' way.
+
+### Day 3: May 7, 2019
+
+**Today's Progress**: Worked on Intro to Git.
+
+**Thoughts:** The last time I learned git I didn't really use it much, so hopefully it sticks this time. I've been super tired but I'm still trying to get in at least 20-30 steps on Treehouse each day. I tried to code a small layout project from scratch and kinda came up braindead. I'm going to try again tomorrow. The hardest part is coming up with fake content to make a fake webpage, honestly.
