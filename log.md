@@ -50,6 +50,6 @@
 
 ### Day 8: May 12, 2019
 
-**Today's Progress**: 
+**Today's Progress**:  Did some more object/array practice. And it's DOM manipulation time! I learned how to use JS to select and manipulate parts of a webpage, and make the browser listen for certain events. I learned about using let and const to create variables, and I learned about ES6's arrow syntax.
 
-**Thoughts:** 
+**Thoughts:** I'm feeling under the weather today so I'm not going too crazy with practice. I had been wondering about const and let after seeing them around a few times, so it's good to know what they are and how to use them.
